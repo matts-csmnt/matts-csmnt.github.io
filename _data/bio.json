@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Matthew Stephenson",
+    "label": "Post-Grad Student",
+    "picture": "images/profile.jpeg",
+    "email": "matthewxstephenson@gmail.com",
+    "website": "https://matts-csmnt.github.io",
+    "summary": "Hi, I'm Matt. I'm studying for an MSc in Games Software Development at Sheffield Hallam University.<br/>I love graphics and engine programming, and in my spare time enjoy reading literature and music production.",
+    "location": {
+      "city": "Sheffield",
+      "countryCode": "UK",
+      "region": "Yorkshire"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "matt-csmnt",
+        "url": "http://github.com/matt-csmnt"
+      },
+      {
+        "network": "linkedin",
+        "username": "linkedin",
+        "url": "https://www.linkedin.com/in/mstephenson-csmnt/"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Graphics Programming",
+      "keywords": [
+        "DirectX 11",
+        "GNM/GNMX (PlayStation 4)",
+        "Vulkan"
+      ]
+    },
+    {
+      "name": "Engine Programming",
+      "keywords": [
+        "Memory Management",
+        "Tools"
+      ]
+    },
+    {
+      "name": "Concurrency & Optimisation",
+      "keywords": [
+        "x86 ASM",
+        "SIMD Intrinsics"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "C#",
+        "HLSL",
+        "GLSL",
+        "PSSL",
+        "Assembly",
+        "ASP .NET"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Windows",
+        "Git/GitHub",
+        "MS Visual Studio"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sheffield Hallam University, UK",
+      "area": "Games Software Development",
+      "studyType": "M.Sc.",
+      "startDate": "2018-09-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+        "PS4 Engine/Game Development (GNM/GNMX)",
+        "Special Techniques For Graphics (Graphics Pipeline programming w/DX11)",
+        "Hardware Oriented SE (Custom Memory Management, Optimisation w/SIMD Instruction Sets...)",
+        "Artificial Intelligence for Games"
+      ]
+    },
+    {
+      "institution": "Sheffield Hallam University, UK",
+      "area": "Computer Science for Games",
+      "studyType": "B.Sc.",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "gpa": "First Class w/Honours",
+      "courses": [
+        "Unity w/ C#",
+        "DirectX11 & PhyreEngine (for the PlayStation 4) w/ C++",
+        "C++ optimisation, Assembler Languages (x86, PowerPC, ARM)",
+        "Web Applications Development: HTML, js/jQuery, PHP, MySQL Databases",
+        "Maths for Modelling & Rendering (w/ OpenGL)",
+        "Systems Modelling",
+        "Assistive Technology in Games"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Servelec HSC",
+      "position": "Student Software Engineer",
+      "website": "",
+      "startDate": "2016-06-01",
+      "endDate": "2017-06-01",
+      "summary": "Electronic Patient Record & Patient Administration System development.",
+      "highlights": [
+        "C#, js/jQuery Silverlight, ASP .NET & Classic ASP, some VBS front end development.", 
+        "SQL server databases & Nhibernate.", 
+        "Tools: SQL Server Manager, VisualStudio, Continuous Integration w/ TeamCity"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "First place (End of Year Show)",
+      "date": "2018",
+      "awarder": "Sheffield Hallam University",
+      "summary": "My team won first place in 2018.  See my Retrospective Ghost Detective on my projects page for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
