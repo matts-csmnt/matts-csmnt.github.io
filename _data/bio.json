@@ -59,8 +59,10 @@
         "HLSL",
         "GLSL",
         "PSSL",
-        "Assembly",
-        "ASP .NET"
+        "x86 ASM",
+        "PowerPC ASM",
+        "ASP .NET",
+        "Go"
       ]
     },
     {
@@ -68,8 +70,9 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Git/GitHub",
-        "MS Visual Studio"
+        "Git",
+        "MS Visual Studio",
+        "RenderDoc & Razor (PS4)"
       ]
     }
   ],
@@ -82,10 +85,11 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        "PS4 Engine/Game Development (GNM/GNMX)",
+        "PS4 Engine/Game Development (GNM/GNMX) - Hogs of War: Reheated Team",
         "Special Techniques For Graphics (Graphics Pipeline programming w/DX11)",
         "Hardware Oriented SE (Custom Memory Management, Optimisation w/SIMD Instruction Sets...)",
-        "Artificial Intelligence for Games"
+        "Artificial Intelligence for Games",
+        "Multiprocessing & Concurrent programming (C++ & Go)"
       ]
     },
     {
@@ -96,13 +100,13 @@
       "endDate": "2018-06-01",
       "gpa": "First Class w/Honours",
       "courses": [
-        "Unity w/ C#",
         "DirectX11 & PhyreEngine (for the PlayStation 4) w/ C++",
         "C++ optimisation, Assembler Languages (x86, PowerPC, ARM)",
-        "Web Applications Development: HTML, js/jQuery, PHP, MySQL Databases",
         "Maths for Modelling & Rendering (w/ OpenGL)",
         "Systems Modelling",
-        "Assistive Technology in Games"
+        "Web Applications Development: HTML, js/jQuery, PHP, MySQL Databases",
+        "Assistive Technology in Games",
+        "Unity w/ C#"
       ]
     }
   ],
@@ -126,7 +130,7 @@
       "title": "First place (End of Year Show)",
       "date": "2018",
       "awarder": "Sheffield Hallam University",
-      "summary": "My team won first place in 2018.  See my Retrospective Ghost Detective on my projects page for more details."
+      "summary": "My team won first place in 2018. See my Retrospective Ghost Detective on my projects page for more details."
     }
   ],
   "references": [
