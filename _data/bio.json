@@ -101,7 +101,7 @@
       "gpa": "First Class w/Honours",
       "courses": [
         "DirectX11 & PhyreEngine (for the PlayStation 4) w/ C++",
-        "C++ optimisation, Assembler Languages (x86, PowerPC, ARM)",
+        "C++ optimisation, Assembler Languages (x86, PowerPC for PlayStation 3, ARM)",
         "Maths for Modelling & Rendering (w/ OpenGL)",
         "Systems Modelling",
         "Web Applications Development: HTML, js/jQuery, PHP, MySQL Databases",
@@ -136,7 +136,7 @@
       "title": "First place (End of Year Show)",
       "date": "2018",
       "awarder": "Sheffield Hallam University",
-      "summary": "Selected as best game for the BSc final year category See <a href=\"https://matts-csmnt.github.io/projects/rgd_2018\">Retrospective Ghost Detective</a> for more details."
+      "summary": "Selected as best game for the BSc final year category. See <a href=\"https://matts-csmnt.github.io/projects/rgd_2018\">Retrospective Ghost Detective</a> for more details."
     }
   ],
   "references": [
