@@ -83,8 +83,9 @@
       "studyType": "M.Sc.",
       "startDate": "2018-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "Projected: Distinction",
       "courses": [
+        "Project: Remastering Animation Systems (PlayStation to PlayStation 4).",
         "PS4 Engine/Game Development (GNM/GNMX) - Hogs of War: Reheated Team",
         "Special Techniques For Graphics (Graphics Pipeline programming w/DX11)",
         "Hardware Oriented SE (Custom Memory Management, Optimisation w/SIMD Instruction Sets...)",
@@ -111,6 +112,25 @@
     }
   ],
   "work": [
+    {
+      "company": "Steel Minions",
+      "position": "Technology Programmer",
+      "website": "",
+      "startDate": "2019-06-01",
+      "endDate": "",
+      "summary": "Titles - Hogs of War: Reheated.\nPlatforms - PlayStation 4.\nContinuing on from my work on the game's engine in the first half of the year, and as part of my MSc project, I've been working on implementing new engine and graphical features using Sony's SDKs (such as the GNM & GNMX APIs) including: ",
+      "highlights": [
+        "Skinned Animation (using PSX animation data).", 
+        "Stencilled Water Effects.", 
+        "Cascaded Shadow Mapping.",
+        "Custom Particle Systems (w/ Soft Particles).",
+        "Text & UI Rendering.",
+        "Deferred Lighting.",
+        "Post Processing Chains.",
+        "Texture Based Collision Detection.",
+        "Memory Allocators & Object Pooling."
+      ]
+    },
     {
       "company": "Servelec HSC",
       "position": "Student Software Engineer",
