@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Matthew Stephenson",
-    "label": "Post-Grad Student",
+    "label": "Games Programmer",
     "picture": "images/profile.jpeg",
     "email": "matthewxstephenson@gmail.com",
     "website": "https://matts-csmnt.github.io",
-    "summary": "Hi, I'm Matt. I'm studying for an MSc in Games Software Development at Sheffield Hallam University.<br/>I love graphics and engine programming, and in my spare time enjoy reading literature and music production.",
+    "summary": "Hi, I'm Matt. I'm a Junior Programmer at Sumo Digital, Sheffield.<br/> I have an MSc in Games Software Development from Sheffield Hallam University, and I love graphics and engine programming.<br/>In my spare time enjoy reading literature and music production.",
     "location": {
       "city": "Sheffield",
       "countryCode": "UK",
@@ -56,13 +56,13 @@
         "C",
         "C++",
         "C#",
-        "HLSL",
-        "GLSL",
-        "PSSL",
+        "Shader Languages: GLSL, HLSL, PSSL",
+        "lua",
         "x86 ASM",
         "PowerPC ASM",
         "ASP .NET",
-        "Go"
+        "Go",
+        "Unreal Engine 4"
       ]
     },
     {
@@ -70,9 +70,9 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Git",
+        "Git & Perforce",
         "MS Visual Studio",
-        "RenderDoc & Razor (PS4)"
+        "RenderDoc, Pix (Windows) & Razor (PS4)"
       ]
     }
   ],
@@ -113,12 +113,22 @@
   ],
   "work": [
     {
+      "company": "Sumo Digital, Sheffield",
+      "position": "Junior Programmer",
+      "website": "",
+      "startDate": "2019-10-28",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
       "company": "Steel Minions",
       "position": "Technology Programmer",
       "website": "",
       "startDate": "2019-06-01",
-      "endDate": "",
-      "summary": "Titles - Hogs of War: Reheated.\nPlatforms - PlayStation 4.\nContinuing on from my work on the game's engine in the first half of the year, and as part of my MSc project, I've been working on implementing new engine and graphical features using Sony's SDKs (such as the GNM & GNMX APIs) including: ",
+      "endDate": "2019-09-01",
+      "summary": "Titles - Hogs of War: Reheated.\nPlatforms - PlayStation 4.\nContinuing on from my work on the game's engine in the first half of the year, and as part of my MSc project, I worked on implementing new engine and graphical features using Sony's SDKs (such as the GNM & GNMX APIs) including: ",
       "highlights": [
         "Skinned Animation (using PSX animation data).", 
         "Stencilled Water Effects.", 
@@ -127,7 +137,6 @@
         "Text & UI Rendering.",
         "Deferred Lighting.",
         "Post Processing Chains.",
-        "Texture Based Collision Detection.",
         "Memory Allocators & Object Pooling."
       ]
     },
