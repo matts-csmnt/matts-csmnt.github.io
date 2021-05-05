@@ -3,11 +3,11 @@
     "name": "Matthew Stephenson",
     "label": "Games Programmer",
     "picture": "images/profile.jpeg",
-    "email": "matthewxstephenson@gmail.com",
+    "email": "",
     "website": "https://matts-csmnt.github.io",
-    "summary": "Hi, I'm Matt. I'm a Junior Programmer at Sumo Digital, Sheffield.<br/> I have an MSc in Games Software Development from Sheffield Hallam University, and I love graphics and engine programming.<br/>In my spare time enjoy reading literature and music production.",
+    "summary": "Hi, I'm Matt. I'm a Programmer at Sumo Digital.<br/> I have an MSc in Games Software Development from Sheffield Hallam University, and I love graphics and engine programming.<br/>In my spare time enjoy reading literature and music production.",
     "location": {
-      "city": "Sheffield",
+      "city": "",
       "countryCode": "UK",
       "region": "Yorkshire"
     },
@@ -113,8 +113,8 @@
   ],
   "work": [
     {
-      "company": "Sumo Digital, Sheffield",
-      "position": "Junior Programmer",
+      "company": "Sumo Digital",
+      "position": "Programmer",
       "website": "",
       "startDate": "2019-10-28",
       "endDate": "Present",
